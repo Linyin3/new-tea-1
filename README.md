@@ -81,12 +81,12 @@
         <h2 class="section-title">养生产品</h2>
         <div class="row">
             <div class="col-md-4 tea-card" data-bs-toggle="modal" data-bs-target="#productModal1">
-                < img src="https://images.pexels.com/photos/9665180/pexels-photo-9665180.jpeg?auto=compress&cs=tinysrgb&w=600" alt="安神助眠茶">
+                <img src="https://images.pexels.com/photos/9665180/pexels-photo-9665180.jpeg?auto=compress&cs=tinysrgb&w=600" alt="安神助眠茶">
                 <h3 class="mt-3">安神助眠茶</h3>
                 <p>主要成分：酸枣仁、茯苓、百合</p >
             </div>
             <div class="col-md-4 tea-card" data-bs-toggle="modal" data-bs-target="#productModal2">
-                < img src="https://images.pexels.com/photos/9665180/pexels-photo-9665180.jpeg?auto=compress&cs=tinysrgb&w=600" alt="疏肝解郁茶">
+                <img src="https://images.pexels.com/photos/9665180/pexels-photo-9665180.jpeg?auto=compress&cs=tinysrgb&w=600" alt="疏肝解郁茶">
                 <h3 class="mt-3">疏肝解郁茶</h3>
                 <p>主要成分：枸杞、桂圆、菊花</p >
             </div>
@@ -100,11 +100,11 @@
         <div class="row">
             <div class="col-md-4 acupoint">
                 <h4>太冲穴</h4>
-                < img src="https://images.pexels.com/photos/9665180/pexels-photo-9665180.jpeg?auto=compress&cs=tinysrgb&w=600" alt="太冲穴" class="img-fluid rounded">
+                <img src="https://images.pexels.com/photos/9665180/pexels-photo-9665180.jpeg?auto=compress&cs=tinysrgb&w=600" alt="太冲穴" class="img-fluid rounded">
             </div>
             <div class="col-md-4 acupoint">
                 <h4>内关穴</h4>
-                < img src="https://images.pexels.com/photos/9665180/pexels-photo-9665180.jpeg?auto=compress&cs=tinysrgb&w=600" alt="内关穴" class="img-fluid rounded">
+                <img src="https://images.pexels.com/photos/9665180/pexels-photo-9665180.jpeg?auto=compress&cs=tinysrgb&w=600" alt="内关穴" class="img-fluid rounded">
             </div>
         </div>
     </div>
